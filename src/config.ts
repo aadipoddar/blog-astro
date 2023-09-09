@@ -4,4 +4,4 @@
 export const SITE_TITLE = 'Blog Posts';
 export const SITE_DESCRIPTION = 'A Blog Post Website using Astro';
 
-export const HOMEPAGE_URL = 'https://www.aadi.vercel.app'
+export const HOMEPAGE_URL = 'https://aadi.vercel.app/'
